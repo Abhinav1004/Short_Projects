@@ -3,7 +3,7 @@
 It includes the various relevant short projects done by me as part of various assignments or other online course .
 
 ## Python
-1. Implementation of Array List and Linked List Data Structure
+1. **Data Structure Implementation**: Implementing ArrayList and Linked List without using Arrays and List of Python
 
 
 ## Java
